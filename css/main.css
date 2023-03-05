@@ -1,0 +1,39 @@
+body {
+
+        background-image: url(../img/fundoback.png);
+        background-repeat: no-repeat;
+        background-size: cover; 
+    }
+
+    .Imagens {
+
+        width: auto;
+        margin: auto;
+    }
+
+      button {
+    
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        width: 10px;
+        height: 10px;
+        border-style: none;
+        border-radius: 40px;
+        margin: -394px 1065px;
+    }
+
+      input {
+
+        width: 250px;
+        height: 28px;
+        margin: 363px 850px;
+        border-style: none;
+        border-radius: 20px;
+    }
+
+
+      
+
+    
+
